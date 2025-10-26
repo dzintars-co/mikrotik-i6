@@ -34,6 +34,15 @@ We deploy WireGuard/Back-to-Home with QR provisioning.
 
 ---
 
+<div class="image-showcase">
+  <div class="image-column">
+    <img src="assets/img/ipv6_security_shield.jpeg" alt="MikroTik IPv6 Security">
+  </div>
+  <div class="image-column">
+    <img src="assets/img/mikrotik_data_protection.jpeg" alt="MikroTik Data Protection">
+  </div>
+</div>
+
 ## Routers
 
 | Model | Photo | Description |

@@ -30,6 +30,15 @@ Uzstādām WireGuard/Back-to-Home ar QR kodu.
 
 ---
 
+<div class="image-showcase">
+  <div class="image-column">
+    <img src="assets/img/ipv6_security_shield.jpeg" alt="MikroTik IPv6 drošība">
+  </div>
+  <div class="image-column">
+    <img src="assets/img/mikrotik_data_protection.jpeg" alt="MikroTik datu aizsardzība">
+  </div>
+</div>
+
 ## Rūteri
 
 | Modelis | Foto | Apraksts |
