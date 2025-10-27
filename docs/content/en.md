@@ -46,13 +46,3 @@ We deploy WireGuard/Back-to-Home with QR provisioning.
 | hAP ax³ | | Home Wi‑Fi 6 solution |
 | hEX S | | Wired SMB router |
 | CCR2004-16G-2S+ | | Enterprise level performance |
-
----
-
-## Promo Video
-
-<div class="video-wrapper">
-  <video controls playsinline muted loop poster="../assets/video-poster.jpg">
-    <source src="../assets/video.mp4" type="video/mp4">
-  </video>
-</div>

@@ -46,13 +46,3 @@ Uzstādām WireGuard/Back-to-Home ar QR kodu.
 | hAP ax³ | | Mājas Wi‑Fi 6 risinājums |
 | hEX S | | Vadu SMB maršrutētājs |
 | CCR2004-16G-2S+ | | Uzņēmumu līmeņa veiktspēja |
-
----
-
-## Reklāmas video
-
-<div class="video-wrapper">
-  <video controls playsinline muted loop poster="../assets/video-poster.jpg">
-    <source src="../assets/video.mp4" type="video/mp4">
-  </video>
-</div>
